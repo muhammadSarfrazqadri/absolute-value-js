@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(16, 151, 106);
+}
+
+h1 {
+    font-weight: 800;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 5em;
+    color: rgb(221, 225, 230);
+    text-align: center;
+}
